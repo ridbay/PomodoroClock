@@ -1,0 +1,15 @@
+body {
+    background-image: url(./course-7.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    display: inline;
+}
+
+#start {
+    margin: 10px;
+}
